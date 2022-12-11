@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930309027914",
+    "project_id": "qatargates-c3ac6",
+    "storage_bucket": "qatargates-c3ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930309027914:android:9bdd2ae176506159688eb3",
+        "android_client_info": {
+          "package_name": "com.art4muslim.qatargates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930309027914-44s49rdhu3d6sc94rbc7upq7p84c8knc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABTWNPTL6iFzL1HktmDKuvX_oHlquhrOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930309027914-44s49rdhu3d6sc94rbc7upq7p84c8knc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

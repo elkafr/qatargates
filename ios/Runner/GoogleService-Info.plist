@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>807258144357-rg17pdh4rdv1bv6l1nrvoj45ha09f9b0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.807258144357-rg17pdh4rdv1bv6l1nrvoj45ha09f9b0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsWHWwMXe4He10FDQnSRQIiOMEeaLgnX0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>807258144357</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.art4muslim.qatargates</string>
+	<key>PROJECT_ID</key>
+	<string>qatargates</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qatargates.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:807258144357:ios:6740f70e8031e55d2e508c</string>
+</dict>
+</plist>
